@@ -1,0 +1,9 @@
+Place your scene images here.
+
+Required files (referenced by mapping.json):
+  default.jpg      – podcast logo / fallback image shown between keyword hits
+  court.jpg        – shown when keywords like "دادگاه", "قاضی", "شاهد" appear
+  crime_scene.jpg  – shown when keywords like "جنایت", "قتل", "پلیس" appear
+
+Recommended resolution: 1920×1080 px (16:9)
+Any common format works: JPG, PNG, WEBP

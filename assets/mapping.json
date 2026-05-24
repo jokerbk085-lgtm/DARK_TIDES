@@ -1,0 +1,129 @@
+{
+  "default": {
+    "folder": null,
+    "image": "assets\\images\\default.jpg",
+    "music": "assets\\music\\EW1133.wav"
+  },
+  "keywords": {
+    "جسد": {
+      "folder": "assets\\images\\crime",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "کشته": {
+      "folder": "assets\\images\\crime",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "قتل": {
+      "folder": "assets\\images\\crime",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "پلیس": {
+      "folder": "assets\\images\\police",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "کارآگاه": {
+      "folder": "assets\\images\\police",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "بازجویی": {
+      "folder": "assets\\images\\police",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    },
+    "دستگیر": {
+      "folder": "assets\\images\\police",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "دادگاه": {
+      "folder": "assets\\images\\court",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    },
+    "محاکمه": {
+      "folder": "assets\\images\\court",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    },
+    "قاضی": {
+      "folder": "assets\\images\\court",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    },
+    "زندان": {
+      "folder": "assets\\images\\prison",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "حبس": {
+      "folder": "assets\\images\\prison",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "تهران": {
+      "folder": "assets\\images\\city",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    },
+    "شهر": {
+      "folder": "assets\\images\\city",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    },
+    "خیابان": {
+      "folder": "assets\\images\\city",
+      "image": null,
+      "music": "assets\\music\\Roaring Silence.wav"
+    },
+    "قاتل": {
+      "folder": "assets\\images\\person",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "متهم": {
+      "folder": "assets\\images\\person",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    },
+    "مظنون": {
+      "folder": "assets\\images\\person",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    },
+    "شب": {
+      "folder": "assets\\images\\dark",
+      "image": null,
+      "music": "assets\\music\\Roaring Silence.wav"
+    },
+    "تاریکی": {
+      "folder": "assets\\images\\dark",
+      "image": null,
+      "music": "assets\\music\\Roaring Silence.wav"
+    },
+    "کابوس": {
+      "folder": "assets\\images\\dark",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "وحشت": {
+      "folder": "assets\\images\\dark",
+      "image": null,
+      "music": "assets\\music\\Contraband.wav"
+    },
+    "روزنامه": {
+      "folder": "assets\\images\\dark",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    },
+    "پرونده": {
+      "folder": "assets\\images\\dark",
+      "image": null,
+      "music": "assets\\music\\EW1133.wav"
+    }
+  }
+}

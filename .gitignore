@@ -1,0 +1,32 @@
+# خروجی‌های ویدیو
+output/
+
+# فایل‌های صوتی بزرگ
+*.wav
+*.mp3
+*.m4a
+*.aac
+
+# فایل‌های ویدیویی
+*.mp4
+*.mov
+*.avi
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Whisper model cache
+~/.cache/whisper/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
